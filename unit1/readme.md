@@ -18,7 +18,7 @@ Slide: SW01_intro.pdf
 ### Introduction to Git
 
 
-Video1: How to install Git on windows
+Video1: How to install Git On windows
 
 https://www.acfun.cn/v/ac12933284
 
