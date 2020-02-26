@@ -18,7 +18,7 @@ Slide: SW01_intro.pdf
 ### Introduction to Git
 
 
-Video1: How to install Git on windows
+Video1: How to install Git On windows
 
 https://www.acfun.cn/v/ac12933284
 
@@ -40,6 +40,7 @@ https://www.acfun.cn/v/ac12946212
 
 The same set of video could also be found on bilibili.com.
 
+i love xxt
 ### Exercise
 
 1. Create account on Github/Gitlab.
