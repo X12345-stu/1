@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 26 14:58:35 2020
-
-@author: xxt
-"""
 from os.path import *
 file_name = "C:\\Users\\xxt\\Desktop\\SES2020spring\\unit2\\readme.md"
 def count_char(f):
